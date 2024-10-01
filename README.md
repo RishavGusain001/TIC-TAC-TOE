@@ -12,11 +12,11 @@ Tic Tac Toe is a two-player game where players take turns marking spaces in a 3x
 
 ## Features
 
-User-friendly interface: Easy-to-understand and intuitive gameplay.
-Mode : Only play in a single System/Device with friends.
-Win detection: Automatically determines the winner when a player achieves three in a row.
-Tie detection: Handles situations where the game ends in a draw.
-Replay functionality: Allows players to start a new game or replay the previous one.
+- User-friendly interface: Easy-to-understand and intuitive gameplay.
+- Mode : Only play in a single System/Device with friends.
+- Win detection: Automatically determines the winner when a player achieves three in a row.
+- Tie detection: Handles situations where the game ends in a draw.
+- Replay functionality: Allows players to start a new game or replay the previous one.
 
 ## How to Play
 
