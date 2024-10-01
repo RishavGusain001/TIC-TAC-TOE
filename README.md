@@ -1,3 +1,7 @@
+#
+![tic-tac-toe](https://github.com/user-attachments/assets/c8b93cbb-3eda-45a8-a0a7-0f9db87faac8)
+#
+
 # TIC-TAC-TOE
 
 This is a tic tac toe game made with the implementation of HTML ,CSS AND JAVASCRIPT.
